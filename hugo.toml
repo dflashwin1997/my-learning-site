@@ -1,0 +1,17 @@
+baseURL = "https://dflashwin1997.github.io/my-learning-site/"
+languageCode = "zh-cn"
+title = "我的学习网站"
+theme = "ananke"
+
+[params]
+  description = "一个用于学习和分享知识的网站"
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "课程"
+  url = "/courses/"
+  weight = 2

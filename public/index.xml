@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>我的学习网站</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on 我的学习网站</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>第一课：认识学习主题</title>
+				<link>http://localhost:1313/courses/lesson-1/</link>
+				<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/courses/lesson-1/</guid>
+				<description>&lt;p&gt;欢迎来到我的学习网站。&lt;/p&gt;&#xA;&lt;h2 id=&#34;本课目标&#34;&gt;本课目标&lt;/h2&gt;&#xA;&lt;p&gt;完成本课后，你应该能够：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;了解本课程的学习内容。&lt;/li&gt;&#xA;&lt;li&gt;记住本课的核心概念。&lt;/li&gt;&#xA;&lt;li&gt;完成课后练习。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;学习内容&#34;&gt;学习内容&lt;/h2&gt;&#xA;&lt;p&gt;测试修改&lt;/p&gt;&#xA;&lt;h2 id=&#34;课后练习&#34;&gt;课后练习&lt;/h2&gt;&#xA;&lt;p&gt;请写下你对本课内容的理解。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
